@@ -1,4 +1,4 @@
-# 超市盘点工具
+# 超市盘点工具（inventory）
 
 1.单据录入(documentEntry)
 
